@@ -1,0 +1,5 @@
+print("OLA, VAMOS CALCULAR A METRAGEM DE SEU TERRENO E O VALOR")
+largura = int(input("INSIRA A LARGURA DO TERRENO:"))
+comprimento = int(input("INSIRA O COMPRIMENTO DO TERRENO:"))
+preco = int(input("INSIRA O VALOR DO M² DE SUA REGIÃO"))
+print(f"SEU TERRENO TEM {largura*comprimento} M² E UM VALOR DE MERCADO DE R$ {(largura*comprimento)*preco}")
