@@ -1,0 +1,6 @@
+alcoolica,cerveja,brahma,50,5,50
+alcoolica,cerveja,kaiser,50,3,50
+alcoolica,cerveja,skol,50,4,50
+as,ass,wwes,50,4,2
+alcoolica,cerveja,bharma,50,4,90
+alcollica,cerveja,brahma,50,3,5
